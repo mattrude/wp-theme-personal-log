@@ -1,0 +1,21 @@
+/*
+ * Theme Name: Personal Log
+ * Version: 1.0
+ * Description: Personal Log is a child theme for the P2 theme.
+ * Author: Matt Rude
+ * Template: p2
+ */
+
+@import url('../p2/style.css');
+
+#header {
+    min-height:80px;
+}
+
+#header .sleeve {
+    display:block;
+}
+
+#main span.meta abbr {
+    font-size: 1em;
+}
